@@ -1,0 +1,33 @@
+baseURL = "https://john123797.github.io/"
+languageCode = "zh-tw"
+title = "test"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    weight = 10
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    weight = 20
+    name = "Tags"
+    url = "/tags/"
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "分類"
+    url = "/categories/"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+
+
+[params]
+  author = "John Doe"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  menu_item_separator = " "
