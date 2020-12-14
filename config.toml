@@ -28,6 +28,6 @@ theme = "m10c"
 
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Chung-Hsiang Cheng"
+  description = ""
   menu_item_separator = " "
