@@ -5,7 +5,11 @@ theme = "m10c"
 disqusShortname = "uncle-notes"
 
 # Google Analytics UA number
+<<<<<<< HEAD
 googleAnalytics = "UA-79596126-6"
+=======
+googleAnalytics = "G-FNJ53MVHMH"
+>>>>>>> bb3df6ef256a1f03a4e4e20fd57ac18f0eeb4491
 
 [menu]
   [[menu.main]]
