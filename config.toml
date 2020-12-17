@@ -5,11 +5,7 @@ theme = "m10c"
 disqusShortname = "uncle-notes"
 
 # Google Analytics UA number
-<<<<<<< HEAD
 googleAnalytics = "UA-79596126-6"
-=======
-googleAnalytics = "G-FNJ53MVHMH"
->>>>>>> bb3df6ef256a1f03a4e4e20fd57ac18f0eeb4491
 
 [menu]
   [[menu.main]]
@@ -34,9 +30,16 @@ googleAnalytics = "G-FNJ53MVHMH"
     name = "關於我"
     url = "/about_me/"
 
-
-
 [params]
   author = "Chung-Hsiang Cheng"
-  description = ""
+  description = "一個在邊緣角落的小小工程師"
   menu_item_separator = " "
+  [[params.social]]
+    name = "email"
+    url = "mailto:john456797@gmail.com"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/john123797"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/john123797"
